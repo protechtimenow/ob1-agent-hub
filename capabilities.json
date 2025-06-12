@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "agent_name": "OB-1",
+  "last_updated": "2025-06-12T13:11:52Z",
+  "core_capabilities": {
+    "blockchain_analysis": true,
+    "github_integration": true,
+    "persistent_memory": true,
+    "api_bridge": true
+  },
+  "extended_capabilities": {
+    "voice_integration": false,
+    "social_feeds": false,
+    "custom_mcps": false,
+    "autonomous_execution": false
+  },
+  "api_connections": [],
+  "memory_modules": [
+    "mission_context",
+    "conversation_history", 
+    "learned_patterns"
+  ]
+}
